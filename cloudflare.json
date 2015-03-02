@@ -1,0 +1,25 @@
+{
+    
+    "name": "App name",
+    "description": "Describe the app in a sentence or two",
+    "version": "0.7",
+    "category": "analytics",
+    "main": "public/javascripts/app_module.js",
+    "config":{
+        "details":{
+            
+        }, 
+        "assets":{
+            
+        },
+        "interface": [
+            
+        ]
+    },
+    "account": {
+        
+    },
+    "billing": {
+       
+    }
+}
